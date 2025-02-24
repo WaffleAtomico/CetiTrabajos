@@ -1,0 +1,93 @@
+﻿// Metodo de burbuja.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//Oscar Alejandro Penilla 20300701
+
+#include <iostream>
+using namespace std;
+
+class numeros
+{
+public:
+	int cantidad = 0;
+	char iteracion = ' ';
+	int arreglo[50];
+	
+	numeros(int, int*, char);
+	~numeros();
+	void burbuja(int*, int, char);
+};
+
+numeros::numeros(int, int*, char)
+{
+	numeros::iteracion, iteracion; //1
+	numeros::cantidad = cantidad;
+	numeros::arreglo[50] = arreglo[50];
+}
+numeros::~numeros()
+{
+}
+
+void numeros::burbuja(int* arreglo, int cantidad, char mostrar) {
+	int aux = 0;
+	for (int i = 0; i <= cantidad; i++)
+	{
+		for (int a = 0; a < cantidad-1; a++)
+		{
+			if (arreglo[a] > arreglo[a+1]) {
+				aux = arreglo[a];
+				arreglo[a] = arreglo[a + 1];
+				arreglo[a + 1] = aux;	
+			}
+		}
+		if (mostrar == 'S') {
+			cout << "iteracion " << i << ": ";
+			for (int j = 0; j < cantidad; j++)
+			{
+				cout << arreglo[j] << " ";
+			}
+			cout << "\n";	
+		}
+		if (mostrar=='N') {
+		cout << arreglo[i]<<" "; //completo
+		}	
+	}
+}
+
+int main()
+{
+	int cant = 0;
+	char iteracion = 'S';
+	int arreglo[50];
+	bool b_rep = true;
+		do
+		{
+			cout << "Cual es la cantidad de digitos que quieres ingresar? Min 1 max 50"<<endl;
+			cin >> cant;
+		} while (cant < 1 || cant > 50);
+		cout << "Ingresa los datos: " << endl;
+		for (int i = 0; i < cant; i++)
+		{	
+			cin >> arreglo[i];
+		}
+		do
+		{
+			cout << "Quieres ver la iteracion? (S/N)" << endl;
+			cin >> iteracion;
+			switch (iteracion)
+			{
+			case 'S':
+			{
+				cout << "Hola" << endl;
+				numeros ob1(cant, arreglo, iteracion);
+				ob1.burbuja(arreglo,cant, iteracion);
+			}
+				break;
+			case 'N':
+			{
+				cout << "Aqui solo el arreglo de salida" << endl;
+				numeros ob1(cant, arreglo, iteracion);
+				ob1.burbuja(arreglo, cant, iteracion);
+			}
+				break;
+			}
+		} while (iteracion != 'S' && iteracion != 'N');
+}

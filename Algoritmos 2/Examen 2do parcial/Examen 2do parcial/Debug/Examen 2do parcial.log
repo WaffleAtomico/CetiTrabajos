@@ -1,0 +1,3 @@
+﻿  Examen 2do parcial.cpp
+C:\Users\penil\source\repos\Examen 2do parcial\Examen 2do parcial\Examen 2do parcial.cpp(35,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Examen 2do parcial.vcxproj -> C:\Users\penil\source\repos\Examen 2do parcial\Debug\Examen 2do parcial.exe

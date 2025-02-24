@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\bin\Debug\net7.0\fibbonaci.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\bin\Debug\net7.0\fibbonaci.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\bin\Debug\net7.0\fibbonaci.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\bin\Debug\net7.0\fibbonaci.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\bin\Debug\net7.0\fibbonaci.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\refint\fibbonaci.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\fibbonaci.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\C#\fibbonaci\fibbonaci\obj\Debug\net7.0\ref\fibbonaci.dll

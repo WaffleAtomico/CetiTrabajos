@@ -1,0 +1,68 @@
+﻿// Constructores y destructores.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//
+
+#include <windows.h>
+#include <iostream>
+#include <conio.h>
+#include <string.h>
+
+
+using namespace std;
+
+char descripcion[40];
+float costo = 0;
+char fecha_cad[12];
+
+void leer();
+
+class articulo
+{
+public:
+	char descripcion[40];
+	float costo = 0;
+	char fecha_cad[12];
+	articulo(char *, char *, float);
+	~articulo();
+
+	//articulo() {};
+
+	void muestra();
+
+private:
+
+};
+
+articulo::articulo(char* descripcion, char* fecha_cad, float costo)
+{
+	strcpy_s(articulo::descripcion, descripcion);
+	strcpy_s(articulo::fecha_cad, fecha_cad);
+	articulo::costo = costo;
+}
+
+articulo::~articulo()
+{
+}
+
+void articulo::muestra() {
+	cout << "Descripcion: " << articulo::descripcion << endl;
+	cout << "Fecha de caducidad: " << articulo::fecha_cad << endl;
+	cout << "Costo: " << articulo::costo << endl;
+
+}
+
+int main()
+{
+	leer();
+	articulo ob1(descripcion, fecha_cad, costo);
+	ob1.muestra();
+}
+
+void leer() {
+	cout << "Descripcion: ";
+	gets_s (descripcion);
+	cout << "Fecha de caducidad: ";
+	gets_s(fecha_cad);
+	cout << "Costo: ";
+	cin >> costo;
+
+}

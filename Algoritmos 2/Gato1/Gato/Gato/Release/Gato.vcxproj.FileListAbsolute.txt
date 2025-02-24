@@ -1,0 +1,2 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Gato1\Gato\Gato\Release\Gato.gato.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Gato1\Gato\Gato\Release\Gato.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Conversion\Conversion\Debug\Conversion.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Conversion\Conversion\Debug\Conversion.Convertidor.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Conversion\Conversion\Debug\Conversion.vcxproj.GenerateResource.cache

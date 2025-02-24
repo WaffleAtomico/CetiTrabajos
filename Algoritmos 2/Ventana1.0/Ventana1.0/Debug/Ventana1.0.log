@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Ventana1.0\Ventana1.0\Ventanilla.h(173,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ventana1.0.vcxproj -> C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Ventana1.0\Debug\Ventana1.0.exe

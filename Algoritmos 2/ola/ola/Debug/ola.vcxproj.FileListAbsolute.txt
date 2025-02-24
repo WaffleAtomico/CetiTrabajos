@@ -1,0 +1,3 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ola\ola\Debug\ola.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ola\ola\Debug\ola.MyForm.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ola\ola\Debug\ola.vcxproj.GenerateResource.cache

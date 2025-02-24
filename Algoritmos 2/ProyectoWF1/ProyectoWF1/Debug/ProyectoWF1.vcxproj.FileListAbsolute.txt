@@ -1,0 +1,6 @@
+C:\Users\Carlos\Desktop\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.MiVentana.resources
+C:\Users\Carlos\Desktop\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.vcxproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.MiVentana.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\ProyectoWF1\ProyectoWF1\Debug\ProyectoWF1.vcxproj.GenerateResource.cache

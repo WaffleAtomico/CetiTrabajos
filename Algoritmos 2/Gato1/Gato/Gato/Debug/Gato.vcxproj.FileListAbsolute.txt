@@ -1,0 +1,3 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Gato1\Gato\Gato\Debug\Gato.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Gato1\Gato\Gato\Debug\Gato.gato.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Gato1\Gato\Gato\Debug\Gato.vcxproj.GenerateResource.cache

@@ -1,0 +1,64 @@
+Programa numero 2
+
+
+f(x)=x^7-2x^5 + 6
+Debe f(x)=0
+
+Tiene 7 posibles soluciones por x^7
+
+Por lo menos hay una solucion y 1 imaginaria
+
+la maxima potencia que va a tener la potencia sera un numero impar
+
+No se va a encontrar las 7 soluciones, solo la primera que de el sistema
+
+Le vamos a atinar para obtener el valor
+
+Imaginemos una tabla
+
+x | f(x)   | 
+7 | 789935 | 
+
+
+
+Vamos a obtener otro numero para probar
+Vamos a usar la formula 
+
+Xn+1 = Xn - f(x)/f'(x)
+
+
+f'(x) = 
+
+x | f(x)   | f'(x)  |
+7 | 789935 | 799533 |
+
+7/799533 = 6.01
+
+
+x | f(x)   | f'(x)  | Xn+1 |
+7 | 789935 | 799533 | 6.01 |
+
+
+F(x) se debe de acercar a 0
+
+x 	| f(x)   | f'(x)  | Xn+1 |
+7 	| 789935 | 799533 | 6.01 |
+6		 	    5.16 |
+5.16		     	    4.45 |
+... 40 repeticiones llego a 0
+
+-1.60	|  0 aprox
+
+
+obtiene un punto de partida que pone el usuario, se sustituye en la funcion y se obtiene F(x), luego se obtiene f'(x), luego se dividen ambas f(x)/f'(x) para obtener Xn+1
+
+
+la tolerancia es puesta por el usuario tambien, el f(x) = 0 puede ser f(x) = 5 u 8 o -7 o -12
+
+
+La ecuacion se mete como una cadena: x^7-2*x^5+6
+
+
+Newton-Raphson
+
+El usuario solo pone el punto de partida, la tolerancia y la ecuacion toda junta

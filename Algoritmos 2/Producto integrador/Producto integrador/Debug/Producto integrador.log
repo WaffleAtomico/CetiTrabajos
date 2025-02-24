@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Producto integrador\Producto integrador\Source.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Producto integrador.vcxproj -> C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Producto integrador\Debug\Producto integrador.exe

@@ -1,0 +1,146 @@
+para todo funcional es uno no funcional que lo juzga
+
+Se debe de hacer el crud y explicando como se va a hacer 
+En que motor de bd
+
+Necesita verlo en tabla
+
+Izquierdo los funcionales y del derecho no funcionales
+
+Escribir en infinitivo
+
+
+Todo debe de tener un sujeto y un que en la redaccion
+
+
+Checar la concordancia de los requerimientos
+
+Los salones solo pueden ser unos especificos, como los permisos de los salones
+
+
+Todos los funcionales tiene minimo un No funcional
+
+
+Ejem: Se agrega un material, que va a pedir para agregarlo? El nombre puede tener letras? Como se genera el numero de serie? (Anel lo pone)
+
+
+Preguntar a Anel mas cosas, casi no le preguntamos pq las dudas surgieron en nuestras casas, no lo hicimos a tiempo
+
+
+Se tiene que trabajar en equipo y en comunicacion
+
+Listado de preguntas para Anel
+
+Despues a los profesores de electronica o digitales
+
+
+Anel Apunta el numero serie del equipo y ella genera otro
+
+
+Preguntar a alumnos de 4to y 5to
+
+
+Separarlo por cosas por modulo
+
+Toma tiempo, y trabajo EN EQUIPO
+
+
+Separarnos en grupos para hacer preguntas
+Pero que todos sepamos las preguntas que hacemos
+Tener en claro lo que tienen que hacer que equipo, que lo sepan todos
+
+
+Depende del modulo lso equipos que vamos a hacer
+
+
+
+Almacenista todo su crud
+
+Amacenista
+Administrar estudiante
+material
+permisos 
+horarios
+Bitacora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preguntas
+
+
+alamacenista
+1 Como pide material de mantenimiento
+2 Administrar todo su crud
+3 Verifica los permisos
+4 Verifica la disponibilidad
+5 Revisa el estado
+6 Reportar los materiales
+
+
+
+Estudiante
+1 Pide materiales
+2 Devuelve
+
+
+
+Coordi
+1 Aprueba solicitudes de material nuevo
+2 solo ve el sistema, entonces solo ve
+
+
+Maestros
+1 Autoriza los permisos
+2 Pide material
+3 Recibe 
+
+
+La bd va a ser para saber el estado de las cosas y que se va a usar
+
+
+
+Req estudiantes
+Isaac
+Angel
+Tamara
+Oscar Madriz
+Nany
+Caro
+
+Req Almacenista
+Ricardo
+Nebai
+Raymundo
+Arturo
+Axel
+Braulio
+Mario
+Penilla
+
+Req Profesores
+Gael
+uriel
+Emiliano
+Lino
+
+Req cordi -> Estudiantes
+Vale
+Sam
+
+
+Ultimo dia es sabado y domingo revision
+
+
+
+Separarnos entre todos los usuarios

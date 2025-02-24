@@ -1,0 +1,28 @@
+Mi idea siento que es muy simple, pero creo que es funcional
+
+Veamos el arbol como un camino que desglosa otros dos 
+y esos 2 otros 2 y así. Con esto en mente sabemos que
+vamos a hacer un recorrido por estos caminos hasta
+llegar al más largo de estos ya que este nos indicará
+la longitud en niveles de nuestro árbol
+
+Primero llamamos a nuestra raiz y de esta a las dos
+variables que la desglosan (Mayor y menor), 
+supongamos que queremos iniciar por los numeros 
+mayores a nuestra raiz entonces hay que tener nuestros
+contadores (En realidad solo será uno ya que los 
+resultados los comparamos directamente de los resultados
+de las funciones); que van a avanzar hasta encontrar 
+una hoja, la cual sería una variable sin un numero
+mayor, entonces, ahi tendriamos que irnos a un 2do caso
+los numeros menores, que se haría el mismo proceso
+hasta encontrar un tope en nuestros valores
+
+Cuando el programa llegue a un valor nulo regresaria
+el resultado del valor maximo encontrado, lo
+compararía con otro valor(Con su lado contrario),
+si ese valor fuera mayor entonces ese será la 
+respuesta de la función.
+Los valores se comparan y el maximo se asigna para 
+la siguiente iteración vaya
+

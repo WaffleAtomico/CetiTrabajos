@@ -1,0 +1,6 @@
+﻿  Practica 7.cpp
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Practica 7\Practica 7\Practica 7.cpp(111,38): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Practica 7\Practica 7\Practica 7.cpp(117,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Practica 7\Practica 7\Practica 7.cpp(244,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Practica 7\Practica 7\Practica 7.cpp(252,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Practica 7.vcxproj -> C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Practica 7\Debug\Practica 7.exe

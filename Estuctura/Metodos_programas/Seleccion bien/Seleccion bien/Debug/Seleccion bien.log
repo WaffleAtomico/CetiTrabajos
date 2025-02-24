@@ -1,0 +1,3 @@
+﻿  Seleccion bien.cpp
+LINK : fatal error LNK1168: no se puede abrir C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Metodos_programas\Seleccion bien\Debug\Seleccion bien.exe para escritura
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe" salió con el código 1168.

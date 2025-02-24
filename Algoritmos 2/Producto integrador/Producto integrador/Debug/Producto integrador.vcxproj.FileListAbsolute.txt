@@ -1,0 +1,3 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Producto integrador\Producto integrador\Debug\Producto integrador.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Producto integrador\Producto integrador\Debug\Productointegrador.restaurante.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Producto integrador\Producto integrador\Debug\Producto integrador.vcxproj.GenerateResource.cache

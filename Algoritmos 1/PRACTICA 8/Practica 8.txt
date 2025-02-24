@@ -1,0 +1,54 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){     //Variables
+
+char rep = 's';
+double casa[5][2], cxm[5];
+double cos, ter;
+int idxcosto=0, idxsup=1, mop = 0;
+while (rep == 's'){;
+
+cout << "¿Quieres saber que casa te conviene mas?\n¿Deseas saber que es tu mejor opcion en pocos pasos?\nSi estas leyendo eso con voz de anunciante este es tu programa ;)\n";
+
+for (int i=0; i<=4; i++ ){
+  
+    cout << "Ingresa el costo de la casa " << i+1 << " -- ";
+    cin >> cos;
+    cout << "Ingresa ahora el terreno -- ";
+    cin >> ter;
+        casa[i][idxcosto] = cos;
+        casa[i][idxsup] = ter;
+        
+        cxm[i] = cos/ter;
+        if (cxm[i]== 0){
+          cxm[i] = 0;
+        }
+}
+
+  //Buscar costo bajo y numero de casa
+      double mc=cxm[0];
+    for (int i=0; i<=4; i++){
+      if  (cxm[i]<=mc){
+           mc=cxm[i];
+           mop = i;
+      }  
+    }
+
+cout << "La casa con menor costo es la " << mop+1 <<endl;
+
+   //Preguntamos para repetir
+  cout << "Quieres repetir el programa? s/n --- "; 
+        cin >> rep;
+        
+        if (rep == 's'){
+            rep = 's';
+            
+        }
+        else {
+            rep = 'n';
+        }
+  }  
+
+}

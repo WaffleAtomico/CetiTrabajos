@@ -1,0 +1,3 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Examen 3erparcial\Examen 3erparcial\Debug\Examen 3erparcial.vcxproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Examen 3erparcial\Examen 3erparcial\Debug\Examen3erparcial.Examen.resources
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Algoritmos 2\Examen 3erparcial\Examen 3erparcial\Debug\Examen 3erparcial.vcxproj.GenerateResource.cache

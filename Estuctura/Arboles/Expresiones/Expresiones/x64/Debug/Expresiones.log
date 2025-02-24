@@ -1,0 +1,19 @@
+﻿  Expresiones.cpp
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(81,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(179,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(182,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(184,15): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(188,71): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(236,16): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(243,17): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(280,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(289,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(291,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(306,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(309,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(321,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(374,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(393,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(466,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\Expresiones\Expresiones.cpp(454): warning C4715: 'Arbol::decodificador': no todas las rutas de acceso de control devuelven un valor
+  Expresiones.vcxproj -> C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Estuctura\Arboles\Expresiones\x64\Debug\Expresiones.exe
