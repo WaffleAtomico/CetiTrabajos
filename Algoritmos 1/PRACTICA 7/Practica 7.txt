@@ -1,0 +1,76 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){     //Variables
+
+    int num, i=0, a=0, j=0, e=0, res, aux, vari, conti=0, nf;
+    char rep ='s';
+                //Arreglos
+    int arreglo[15];
+    int nr[15], numdif[15], contdif[15];
+
+
+  while (rep == 's'){;
+      cout <<"AVISO: si no aparece nada es que ningun numero se repitió\nCuantos numeros quieres que aparezcan?\n";
+      cin>> num;
+        
+          if (num < 2 || num >=15 ){;
+              rep = false;
+          }
+
+          vari = num-1;
+                //Ingresar los valores
+        for (i=0; i <= vari; i++ && a++){;
+          cout <<"El numero "<<i+1<<" va a ser: ";
+              cin>>arreglo[i];
+              nr[i] = arreglo[i];
+        }
+                //Se ordenan
+              for (i=0; i<=vari-1; i++){
+                for (j=i+1; j<=vari; j++)
+                  if(nr[j] < nr[i]){
+                      aux=nr[i];
+                      nr[i]=nr[j];
+                      nr[j]=aux;
+                  }
+              }
+
+                //Salida
+      cout << "\n\n";
+
+      int x = 0, numant = -1, cu = 1;
+      for (i=0; i <= vari; i++){
+          if (numant != nr[i]){
+              numant = nr[i];
+              numdif[x]=nr[i]; 
+              
+              cu=1;
+              contdif[x] = cu;
+              x++;
+          }
+          else{
+            cu++;
+            contdif[x-1] = cu;
+          }
+      }
+
+      for (i=0; i <= x-1; i++){
+        if (contdif[i] > 1){
+          cout << "El" << numdif[i] << " aparece  " << contdif[i] << "  veces en la serie\n"<< endl;
+        }  
+      }
+          //Preguntamos para repetir
+  cout << "Quieres repetir el programa? s/n --- "; 
+        cin >> rep;
+        
+        if (rep == 's'){
+            rep = 's';
+            
+        }
+        else {
+            rep = 'n';
+        }
+  }  
+}
+
